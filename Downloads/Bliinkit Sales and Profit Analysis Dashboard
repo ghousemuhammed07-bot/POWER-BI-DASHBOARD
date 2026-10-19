@@ -1,0 +1,65 @@
+Project Overview
+This Power BI dashboard provides a comprehensive analysis of Blinkit's sales performance, profitability, delivery efficiency, and customer payment behavior.
+The dashboard helps identify top-performing products, profitable categories, and city-wise business performance through interactive visualizations.
+
+Dataset Information
+The dataset contains the following fields:
+Order_ID
+Order_Date
+City
+Category
+Product_Name
+Quantity
+Unit_Price
+Delivery_Time_Min
+Payment_Mode
+Sales
+Cost
+Profit
+Key Performance Indicators (KPIs)
+Total Sales
+Total Profit
+Total Orders
+Total Quantity Sold
+Average Delivery Time
+Profit Margin %
+
+Dashboard Visualizations
+Sales Trend Analysis
+Tracks sales performance over time and identifies sales fluctuations.
+
+Category Performance
+Analyzes revenue contribution across different product categories.
+
+Product Performance
+Highlights top-selling products based on total sales.
+
+Payment Mode Distribution
+Shows customer preference among UPI, Card, and Cash payments.
+
+City-wise Sales & Profit Analysis
+Interactive map visualization displaying regional business performance.
+
+Key Business Insights
+Banana, Milk, and Chips are among the highest-selling products.
+Dairy and Fruits & Vegetables contribute strong profitability.
+Digital payments such as UPI and Card dominate customer transactions.
+Delivery performance varies across cities and presents optimization opportunities.
+
+Tools Used
+SQL Server Management Studio (SSMS)
+Microsoft Power BI
+DAX
+Power Query
+
+Skills Demonstrated
+Data Cleaning
+Data Transformation
+DAX Measures
+Data Visualization
+Business Intelligence
+Dashboard Design
+Insight Generation
+
+Dashboard Preview
+
